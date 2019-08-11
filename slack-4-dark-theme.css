@@ -248,7 +248,7 @@ div.c-message:hover {
 }
 
 a {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .comment .app_preview_link_slug,
@@ -263,13 +263,13 @@ ts-message .app_preview_link_slug,
 ts-message .internal_member_link,
 ts-message .internal_user_group_link,
 ts-message .mention {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
   font-size: 14px;
   background: transparent
 }
 
 .btn {
-  background: #39c9ff;
+  background: #5CB0FF;
   color: #141E29;
   line-height: 1.2rem;
   font-weight: 900;
@@ -316,7 +316,7 @@ ts-message .mention {
 }
 
 .c-member_slug--link:hover {
-  background: #39c9ff;
+  background: #5CB0FF;
   color: white !important
 }
 
@@ -349,14 +349,14 @@ ts-message .mention {
 
 .upload_in_threads .inline_message_input_container:hover .inline_file_upload,
 .upload_in_threads.has_focus .inline_message_input_container .inline_file_upload {
-  background: #39c9ff !important;
-  border: 2px solid #39c9ff !important;
+  background: #5CB0FF !important;
+  border: 2px solid #5CB0FF !important;
   color: white !important;
 }
 
 #primary_file_button:hover {
-  border: 2px solid #39c9ff !important;
-  background: #39c9ff !important;
+  border: 2px solid #5CB0FF !important;
+  background: #5CB0FF !important;
 }
 
 #primary_file_button {
@@ -366,8 +366,8 @@ ts-message .mention {
   left: 0;
   width: 44px;
   padding: 0;
-  border: 2px solid #39c9ff !important;
-  background: #39c9ff !important;
+  border: 2px solid #5CB0FF !important;
+  background: #5CB0FF !important;
   color: white !important;
   line-height: 42px;
   text-shadow: none;
@@ -379,7 +379,7 @@ ts-message .mention {
 }
 
 .inline_file_upload {
-  background: #39c9ff !important;
+  background: #5CB0FF !important;
   color: white !important;
 }
 
@@ -581,7 +581,7 @@ p-search_filter__date:first-child {
 }
 
 .p-search_filter__more_link {
-  color: #39c9ff;
+  color: #5CB0FF;
   font-size: 13px;
   margin-top: 4px;
 }
@@ -589,7 +589,7 @@ p-search_filter__date:first-child {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-  color: #39c9ff;
+  color: #5CB0FF;
   outline: none;
   text-decoration: underline;
 }
@@ -643,13 +643,13 @@ p-search_filter__date:first-child {
 }
 
 .c-message--light .c-message__sender .c-message__sender_link {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
   font-weight: 700 !important;
   font-size: 14px !important;
 }
 
 .light_theme ts-message .message_content .message_sender {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
   text-transform: capitalize;
   font-weight: 700 !important;
 }
@@ -698,11 +698,11 @@ p-search_filter__date:first-child {
 }
 
 .p-file_list a {
-  color: 39c9ff !important;
+  color: 5CB0FF !important;
 }
 
 .p-downloads_flexpane--list {
-  color: 39c9ff !important;
+  color: 5CB0FF !important;
 }
 
 .p-channel_sidebar {
@@ -718,7 +718,7 @@ p-search_filter__date:first-child {
 }
 
 .p-file_details__share_channel {
-  color: #39c9ff;
+  color: #5CB0FF;
 }
 
 .p-file_details__share_divider hr {
@@ -730,11 +730,11 @@ p-search_filter__date:first-child {
 }
 
 .p-file_details__header_back:hover {
-  color: #39c9ff;
+  color: #5CB0FF;
 }
 
 .c-deprecated_button--link {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .p-file_list__file.c-pillow_file_container--full_width:hover {
@@ -806,7 +806,7 @@ input.c-input_select__filter_input {
 .c-link--button:active,
 .c-link--button:focus,
 .c-link--button:hover {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
   border: none !important;
 }
 
@@ -816,7 +816,7 @@ input.c-input_select__filter_input {
 .c-message_group:hover .c-message_group__header .c-channel_name,
 .c-message_group:hover .c-message_group__header .c-channel_name__team_name,
 .c-message_group:hover .c-message_group__header .c-message_group__header_date {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
   border: none !important;
 }
 
@@ -846,7 +846,7 @@ a:hover {
 }
 
 .c-search__input_box__clear {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .c-search_modal .c-search__input_box__clear {
@@ -877,7 +877,7 @@ a:hover {
 
 .p-channel_sidebar__badge,
 .p-channel_sidebar__banner--mentions {
-  background: #39c9ff !important;
+  background: #5CB0FF !important;
   box-shadow: 1px 3px 3px rgba(0, 0, 0, 0.2) !important;
 }
 
@@ -913,7 +913,7 @@ code {
 }
 
 .c-link--button {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .p-file_upload_dialog__section input.c-input_text:focus {
@@ -1026,7 +1026,7 @@ a.file_download_link:hover {
 }
 
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name {
-  border-left: 2px solid #39c9ff;
+  border-left: 2px solid #5CB0FF;
   padding-left: 6px;
   height: 20px;
   overflow: hidden;
@@ -1040,7 +1040,7 @@ a.file_download_link:hover {
 }
 
 .p-search_filter__date_readout {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .p-search_filter__date .c-icon--times-small {
@@ -1065,12 +1065,12 @@ a.file_download_link:hover {
 }
 
 .c-date_picker_calendar__date.c-date_picker_calendar__date--is_active:focus:not(.c-date_picker_calendar__date--is_selected), .c-date_picker_calendar__date:not(.c-date_picker_calendar__date--disabled):not(.c-date_picker_calendar__date--is_selected):hover {
-  background-color: #39c9ff !important;
+  background-color: #5CB0FF !important;
   color: white !important;
 }
 
 .c-date_picker_calendar__date--is_selected {
-  background-color: #39c9ff !important;
+  background-color: #5CB0FF !important;
   color: #ffffff;
 }
 
@@ -1091,16 +1091,16 @@ a.file_download_link:hover {
 }
 
 .c-button--outline:active {
-  background: #39c9ff !important;
+  background: #5CB0FF !important;
 }
 
 .c-button--outline:active {
-  box-shadow: inset 0 0 0 1px #39c9ff !important;
+  box-shadow: inset 0 0 0 1px #5CB0FF !important;
 }
 
 .c-button--outline:hover {
   box-shadow: none !important;
-  background: 39c9ff !important;
+  background: 5CB0FF !important;
 }
 
 .rxn.user_reacted .emoji_rxn_count {
@@ -1174,7 +1174,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 }
 
 .c-calendar_view_header__stepper_btn {
-  background: #39c9ff !important
+  background: #5CB0FF !important
 }
 
 .c-react_search_input .ts_icon_times_small:active, .c-react_search_input .ts_icon_times_small:focus, .c-react_search_input .ts_icon_times_small:hover {
@@ -1182,7 +1182,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 }
 
 .unread_group .unread_group_header .unread_group_mark, .unread_group .unread_group_header .unread_keyboard {
-  background: #39c9ff !important;
+  background: #5CB0FF !important;
   color: white !important;
 }
 
@@ -1218,7 +1218,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 .p-threads_footer__input--legacy .p-message_input_plus {
   border: 1px solid transparent !important;
   border-radius: 4px 0 0 4px;
-  background: #39c9ff !important;
+  background: #5CB0FF !important;
 }
 
 .ql-editor [aria-label] {
@@ -1250,11 +1250,11 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 }
 
 .c-message__sender {
-  color: #39c9ff !important
+  color: #5CB0FF !important
 }
 
 .c-dialog__footer .c-button {
-  background-color: #39c9ff;
+  background-color: #5CB0FF;
   color: #ffffff;
 }
 
@@ -1264,7 +1264,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 }
 
 a.c-message__sender_link {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .ql-editor[aria-label] {
@@ -1277,7 +1277,7 @@ a.c-message__sender_link {
 }
 
 .thrills_purple {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .feature_channel_browser_dropdown .show_which_channels_container .lfs_input_container .selected {
@@ -1346,11 +1346,11 @@ a.c-message__sender_link {
 }
 
 .p-threads_flexpane__header_permalink, .p-threads_flexpane__header_channel_name {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .c-message .c-button--primary {
-  background-color: #39c9ff;
+  background-color: #5CB0FF;
 }
 
 .c-message_kit__file__meta__text {
@@ -1359,11 +1359,11 @@ a.c-message__sender_link {
 }
 
 .msg_input_btn {
-  background-color: #39c9ff !important;
+  background-color: #5CB0FF !important;
 }
 
 .p-threads_footer__input--legacy .p-message_input_file_button {
-  background-color: #39c9ff !important;
+  background-color: #5CB0FF !important;
   color: white;
 }
 
@@ -1456,7 +1456,7 @@ a.c-message__sender_link {
 }
 
 .c-channel_name__text--inline {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .p-threads_view__divider_label {
@@ -1678,7 +1678,7 @@ h1, h2, h3, h4 {
 }
 
 .c-message_list__unread_divider__label {
-  background: #39c9ff;
+  background: #5CB0FF;
   border: 1px solid transparent;
   text-transform: capitalize;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
@@ -1719,7 +1719,7 @@ h1, h2, h3, h4 {
 
 .c-search__tab.c-tabs__tab.c-tabs__tab--active, .c-search__tab.c-tabs__tab.c-tabs__tab--active:active, .c-search__tab.c-tabs__tab.c-tabs__tab--active:focus {
   border-radius: 0;
-  box-shadow: inset 0 -2px 0 0 #39c9ff;
+  box-shadow: inset 0 -2px 0 0 #5CB0FF;
 }
 
 .c-message_group {
@@ -1822,7 +1822,7 @@ input.c-input_text, input[type=text].c-input_text, input[type=password].c-input_
   margin-bottom: -1px;
   background: #515151;
   padding-top: 3px;
-  border-bottom: 3px solid #39c9ff;
+  border-bottom: 3px solid #5CB0FF;
 }
 
 .p-emoji_picker__preview_text {
@@ -1910,7 +1910,7 @@ pre {
   color: #ffffff;
   line-height: 1.3rem;
   padding-top: 1rem;
-  border-top: 5px solid #39c9ff;
+  border-top: 5px solid #5CB0FF;
 }
 
 #menu.search_filter_menu label {
@@ -2340,7 +2340,7 @@ pre {
 }
 
 .p-shortcuts_flexpane__shortcut:last-of-type {
-  border-bottom: 1px solid #39c9ff;
+  border-bottom: 1px solid #5CB0FF;
 }
 
 c-keyboard_key {
@@ -2461,7 +2461,7 @@ c-keyboard_key {
 }
 
 .btn {
-  background: #39c9ff;
+  background: #5CB0FF;
   color: #141E29 !important;
 }
 
@@ -2470,7 +2470,7 @@ c-keyboard_key {
 }
 
 .c-menu_item__button--danger:hover {
-  background: #39c9ff !important;
+  background: #5CB0FF !important;
 }
 
 .c-file__action_button {
@@ -2496,7 +2496,7 @@ c-keyboard_key {
 
 .c-pillow_file__snippet__content .CodeMirror-code > div:before {
 
-  color: #39c9ff;
+  color: #5CB0FF;
 }
 
 .p-channel_sidebar__section_heading_label--clickable:hover {
@@ -2509,12 +2509,12 @@ c-keyboard_key {
 }
 
 .c-message--sli_highlight .c-message__label__icon {
-  color: #39c9ff;
+  color: #5CB0FF;
 }
 
 .c-message--pinned, .c-message--sli_highlight:not(.c-message--sli_highlight_negative), .c-message--starred {
   background: rgb(52, 54, 56);
-  border: 1px solid #39c9ff;
+  border: 1px solid #5CB0FF;
   border-radius: 4px;
 }
 
@@ -2550,7 +2550,7 @@ c-keyboard_key {
 }
 
 .c-menu_item__li:hover {
-  background: #39c9ff !important;
+  background: #5CB0FF !important;
 }
 
 #msg_form .ql-editor, #msg_form .ql-placeholder {
@@ -2568,7 +2568,7 @@ c-keyboard_key {
 }
 
 .c-presence--active {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 select {
@@ -2623,12 +2623,12 @@ p-apps_browser__app_limit_meter__paragraph {
 }
 
 .pinned_item .pin_member_name a, .pinned_item .pin_member_title {
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
   font-weight: 700 !important;
 }
 
 .app_preview_link_slug, .internal_member_link, .internal_user_group_link {
-  background: #39c9ff;
+  background: #5CB0FF;
   color: #0f1821 !important;
   opacity: 1;
   font-weight: 700;
@@ -2682,7 +2682,7 @@ p-apps_browser__app_limit_meter__paragraph {
 
 .tab_complete_ui ul.type_members .unify_broadcast {
 
-  color: #39c9ff;
+  color: #5CB0FF;
 }
 
 .p-file_upload_banner__progress {
@@ -2690,7 +2690,7 @@ p-apps_browser__app_limit_meter__paragraph {
   width: 100%;
   display: flex;
   align-items: center;
-  background: #39c9ff;
+  background: #5CB0FF;
 }
 
 #select_share_channels .lazy_filter_select .lfs_value .lfs_item.selected {
@@ -2951,7 +2951,7 @@ ts-message .reply_bar:hover {
 }
 
 .c-unified_member--small .presence .presence_icon:before {
-  color: #39c9ff;
+  color: #5CB0FF;
 }
 
 #details_tab .restricted_members_count {
@@ -2961,12 +2961,12 @@ ts-message .reply_bar:hover {
 }
 .presence_icon:before {
 
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .ts_icon_presence:before {
 
-  color: #39c9ff !important;
+  color: #5CB0FF !important;
 }
 
 .away > .ts_icon_presence:before {
@@ -3027,7 +3027,7 @@ channel_invite_tokens input {
 }
 
 .c-small_mpim_entity__count {
-  background-color: #39c9ff;
+  background-color: #5CB0FF;
   color: #fff;
 }
 
