@@ -121,7 +121,7 @@ input.c-input_text[disabled], input[type=text].c-input_text[disabled], .p-prefs_
 }
 
 .c-message__call_sub {
-  color: #ffad4b !important;
+  color: #c-message_attachment__text !important;
 }
 
 .p-call_button_base--active {
@@ -188,7 +188,7 @@ div.c-virtual_list__scroll_container {
 .light_theme ts-message .timestamp {
   line-height: 18px;
   opacity: 0;
-  color: #ffad4b !important;
+  color: #c-message_attachment__text !important;
 }
 
 .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar),
@@ -308,7 +308,7 @@ ts-message .mention {
 
 .c-member_slug--link {
   background: transparent;
-  color: #fcc973 !important;
+  color: #303D51 !important;
   font-weight: 600 !important;
   border: none !important;
   font-size: 13px;
@@ -2145,7 +2145,7 @@ pre {
 
 #details_toggle.active, #details_toggle.active:hover, #recent_mentions_toggle.active, #recent_mentions_toggle.active:hover, #sli_recap_toggle.active, #stars_toggle.active, #stars_toggle.active:hover {
   background: transparent;
-  color: #ffad4b;
+  color: #c-message_attachment__text;
 }
 
 .c-message_list__day_divider__label__pill {
