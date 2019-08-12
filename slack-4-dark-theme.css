@@ -1224,10 +1224,8 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
   background: #5CB0FF !important;
 }
 
-.c-message--focus-within:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight),
-.c-message--hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight),
-.c-message:hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight) {
-  background: #303D51 !important;
+.c-virtual_list__item:hover .c-message {
+  background-color: #303D51 !important;
 }
 
 .ql-editor [aria-label] {
