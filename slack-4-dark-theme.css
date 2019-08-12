@@ -426,30 +426,30 @@ ts-message .mention {
 
 .c-search__input_and_close {
   background: #2b2c2e !important;
-  color white !important;
+  color: white !important;
 }
 
 .c-search__input_box {
   background: #2b2c2e !important;
-  color white !important;
+  color: white !important;
 }
 
 .c-search_autocomplete {
   background: #141E29 !important;
-  color white !important;
+  color: white !important;
 }
 
 .c-search_autocomplete footer {
   background: #3B3B3B !important;
-  color white !important;
+  color: white !important;
 }
 
 .c-search_autocomplete__suggestion_text {
-  color white !important;
+  color: white !important;
 }
 
 .c-search_autocomplete__suggestion_content .c-search_autocomplete__suggestion_text {
-  color white !important;
+  color: white !important;
 }
 
 .c-search_autocomplete header {
@@ -689,7 +689,7 @@ p-search_filter__date:first-child {
 .p-channel_sidebar__section_heading_label--clickable:hover,
 .p-channel_sidebar__section_heading_label--unreads,
 .p-channel_sidebar__quickswitcher:hover {
-  color: #ABB2C1 ! importnat;
+  color: #ABB2C1 !important;
 }
 
 .p-download_item__actions {
@@ -891,7 +891,7 @@ a:hover {
 }
 
 .p-file_list__empty {
-  background #141E29 !important;
+  background: #141E29 !important;
 }
 
 code {
@@ -1224,11 +1224,9 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
   background: #5CB0FF !important;
 }
 
-/*.p-threads_footer__input--legacy .p-message_input_plus {*/
-/*  border: 1px solid transparent !important;*/
-/*  border-radius: 4px 0 0 4px;*/
-/*  background: #5CB0FF !important;*/
-/*}*/
+.c-message--focus-within:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message--hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message:hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight) {
+  background: #303D51;
+}
 
 .ql-editor [aria-label] {
   color: white !important;
@@ -1817,7 +1815,7 @@ code {
 }
 
 .c-reaction_add {
-  opacity: 1
+  opacity: 1;
   background: #656565;
 }
 
@@ -2570,7 +2568,7 @@ c-keyboard_key {
 }
 
 #msg_form .ql-editor, #msg_form .ql-placeholder {
-  opacity: 0.4,
+  opacity: 0.4;
   color: white
 }
 
@@ -2974,7 +2972,6 @@ ts-message .reply_bar:hover {
   color: white
 }
 
-}
 .presence_icon:before {
 
   color: #5CB0FF !important;
@@ -3405,7 +3402,7 @@ p-search_filter__from_name, .p-search_filter__in_channel, .p-search_filter__in_c
 
 .p-flexpane__body--empty {
   align-items: center;
-  background-color: #141414 . !important;
+  background-color: #141414 !important;
   display: flex;
   flex-flow: column;
   justify-content: center;
