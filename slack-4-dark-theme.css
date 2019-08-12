@@ -244,7 +244,7 @@ div.c-virtual_list__scroll_container {
 }
 
 div.c-message:hover {
-  background-color: #141E29 !important;
+  background-color: #303D51 !important;
 }
 
 .c-dialog__title {
@@ -1222,18 +1222,6 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 .p-workspace__input .p-message_input_file_button.p-message_input_file_button--active,
 .p-workspace__input .p-message_input_file_button:hover {
   background: #5CB0FF !important;
-}
-
-.p-message_pane .c-virtual_list__item:hover {
-  background-color: #303D51 !important;
-}
-
-.p-message_pane .c-virtual_list__item:hover .c-message {
-  background-color: #303D51 !important;
-}
-
-.p-message_pane .c-virtual_list__item .c-message:hover {
-  background-color: #303D51 !important;
 }
 
 .ql-editor [aria-label] {
@@ -2394,11 +2382,11 @@ c-keyboard_key {
 }
 
 .c-message--focus:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message--hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message:hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight) {
-  background-color: #3e3e3e !important;
+  background-color: #303D51 !important;
 }
 
 .c-keyboard_key {
-  background: #575656;
+  background: #303D51;
   padding: 2px 8px;
   font-size: 13px;
   font-weight: 400;
@@ -2410,7 +2398,7 @@ c-keyboard_key {
 }
 
 .p-multi_file_upload__container .p-galler_scroller__wrapper {
-  background: #3c3c3c;
+  background: #303D51;
 }
 
 .c-dialog__body {
