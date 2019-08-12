@@ -1224,7 +1224,7 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
   background: #5CB0FF !important;
 }
 
-.c-virtual_list__item:hover .c-message {
+.p-message_pane .c-virtual_list__item .c-message:hover {
   background-color: #303D51 !important;
 }
 
