@@ -154,6 +154,10 @@ div.c-virtual_list__scroll_container {
   color: white
 }
 
+div.c-virtual_list__item .c-message_list__unread_divider hr.c-message_list__unread_divider__separator {
+  border-color: #5CB0FF;
+}
+
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor {
   font-family: 'Muli', sans-serif !important;
 }
