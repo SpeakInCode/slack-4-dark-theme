@@ -1219,7 +1219,8 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
   border: transparent !important;
 }
 
-.p-message_input_file_button:hover {
+.p-workspace__input .p-message_input_file_button.p-message_input_file_button--active,
+.p-workspace__input .p-message_input_file_button:hover {
   background: #5CB0FF !important;
 }
 
