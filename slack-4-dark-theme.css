@@ -1217,6 +1217,11 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 
 .p-threads_footer__input--legacy .p-message_input_file_button {
   border: transparent !important;
+  background: #5CB0FF !important;
+}
+
+.p-message_input_file_button {
+  background: #5CB0FF !important;
 }
 
 .p-threads_footer__input--legacy .p-message_input_plus {
@@ -1358,11 +1363,11 @@ a.c-message__sender_link {
 }
 
 .c-button--primary {
-  background-color: #5CB0FF;
+  background-color: #5CB0FF !important;
 }
 
 .p-message_pane__limited_history_foreword {
-  background: #303D51;
+  background: #303D51 !important;
 }
 
 .c-message_kit__file__meta__text {
@@ -3203,7 +3208,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 }
 
 .p-workspace__input .p-message_input_field {
-  background: #474747;
+  background: #303D51;
   border-radius: 4px;
   border-width: 1px;
   border-color: #0f1821;
