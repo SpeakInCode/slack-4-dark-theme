@@ -1217,10 +1217,9 @@ input[type=text]:focus, input[type=password]:focus, input[type=datetime]:focus, 
 
 .p-threads_footer__input--legacy .p-message_input_file_button {
   border: transparent !important;
-  background: #5CB0FF !important;
 }
 
-.p-message_input_file_button {
+.p-message_input_file_button:hover {
   background: #5CB0FF !important;
 }
 
