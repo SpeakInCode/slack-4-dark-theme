@@ -1040,7 +1040,7 @@ a.file_download_link:hover {
 }
 
 .p-channel_sidebar {
-  border-right: 1px solid #464646 !important;
+  border-right: 1px solid #303D51 !important;
 }
 
 .p-search_filter__date_readout {
@@ -1652,7 +1652,7 @@ textarea.c-input_textarea.c-input_textarea--with_hint {
 }
 
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected, .p-channel_sidebar__link--selected:hover {
-  background: #1A2D41;
+  background: #111A25;
 !important
 }
 
@@ -1762,11 +1762,11 @@ code {
 }
 
 .c-menu.p-emoji_picker, .p-emoji_picker__input_container, .p-emoji_picker__heading, .p-emoji_picker__list_container, .p-emoji_picker__footer, .menu #menu_items_scroller {
-  background: #3a3a3a;
+  background: #303D51;
 }
 
 .p-channel_sidebar__channel--selected {
-  background: #3a3a3a !important
+  background: #303D51 !important
 }
 
 #details_tab .channel_page_section .disclosure_triangle {
@@ -2916,7 +2916,7 @@ ts-message .reply_bar:hover {
 }
 
 .p-channel_sidebar__channel--selected, .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected, .p-channel_sidebar__link--selected:hover {
-  background: #343434;
+  background: #303D51;
 !important
 }
 
@@ -3376,11 +3376,11 @@ p-search_filter__from_name, .p-search_filter__in_channel, .p-search_filter__in_c
 }
 
 .p-classic_nav__team_header {
-  background: #141E29 !important;
+  background: #111A25 !important;
 }
 
 .p-channel_sidebar {
-  background: #141E29 !important;
+  background: #111A25 !important;
 }
 
 .c-mrkdwn__broadcast--mention {
@@ -3726,7 +3726,7 @@ c-search_autocomplete__query_parts .token:hover {
 }
 
 .p-classic_nav__team_header {
-  border-right: 1px solid #404040 !important;
+  border-right: 1px solid #303D51 !important;
 }
 
 .c-texty_autocomplete__result_highlight {
