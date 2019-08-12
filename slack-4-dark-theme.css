@@ -1807,7 +1807,7 @@ code {
 }
 
 .c-reaction {
-  background: rgb(118, 118, 118);
+  background: #1A2D41;
 }
 
 .c-reaction__count {
@@ -1816,12 +1816,12 @@ code {
 
 .c-reaction_add {
   opacity: 1;
-  background: #656565;
+  background: #1A2D41;
 }
 
 .c-reaction:hover {
-  box-shadow: inset 0 0 0 1px rgb(58, 58, 58);
-  background: #868686;
+  box-shadow: none;
+  background: #1A2D41;
 }
 
 .c-message_kit__labels__text, .c-icon, .c-menu_item__link_icon, .c-menu_item__shortcut {
@@ -2846,7 +2846,7 @@ hr {
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
   border-top: 1px solid #0f1821;
-  background: #363636;
+  background: #303D51;
   color: #D7DEED;
 }
 
@@ -2855,7 +2855,7 @@ hr {
 }
 
 #unread_msgs_div .day_divider .day_divider_line {
-  border-top: 1px solid #3c3c3c;
+  border-top: 1px solid #303D51;
 }
 
 ts-message .action_hover_container .btn_msg_action {
