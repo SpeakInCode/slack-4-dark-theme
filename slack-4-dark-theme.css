@@ -1357,6 +1357,14 @@ a.c-message__sender_link {
   background-color: #5CB0FF;
 }
 
+.c-button--primary {
+  background-color: #5CB0FF;
+}
+
+.p-message_pane__limited_history_foreword {
+  background: #303D51;
+}
+
 .c-message_kit__file__meta__text {
   font-size: 12px;
   color: #949494 !important;
