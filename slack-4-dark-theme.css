@@ -3197,7 +3197,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 
 .p-workspace--classic-nav .p-workspace__primary_view,
 .p-workspace--classic-nav .p-workspace__primary_view_footer{
-  background: #141E29 !important;
+  background: red !important;
 }
 
 .p-workspace__input .p-message_input_field {
