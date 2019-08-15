@@ -3747,3 +3747,7 @@ c-search_autocomplete__query_parts .token:hover {
   margin-right: 12px;
   color: #a0a0a0;
 }
+
+.workspace__primary_view_footer {
+  background: #141E29;
+}
