@@ -3196,7 +3196,7 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
 }
 
 .p-workspace--classic-nav .p-workspace__primary_view,
-.p-workspace--classic-nav .p-workspace__primary_view_footer{
+.p-workspace--classic-nav .p-workspace__primary_view_footer {
   background: #141E29 !important;
 }
 
@@ -3461,6 +3461,7 @@ p-search_filter__from_name, .p-search_filter__in_channel, .p-search_filter__in_c
 .p-workspace--classic-nav .p-workspace__primary_view {
   grid-template-areas: "p-workspace__primary_view_contents";
   grid-template-rows: auto;
+  background: #141E29 !important;
 }
 
 .p-member_profile_field {
